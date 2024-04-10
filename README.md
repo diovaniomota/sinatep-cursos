@@ -1,7 +1,4 @@
-# Sinatep
+# Sinatep Cursos
 
-A new Flutter project.
+The application in question is focused on signing contracts, facilitating and speeding up the client company's processes.
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
